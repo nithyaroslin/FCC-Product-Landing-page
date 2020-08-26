@@ -1,0 +1,96 @@
+body {
+  background-color: whitesmoke;
+}
+
+/*#logo {
+  width: 60vw;
+  display: inline-block;
+}
+
+#nav-bar {
+  width: 40vw;
+  display: inline-block;
+}*/
+
+header {
+  display: block;
+}
+
+#header-img {
+  max-width: 300px;
+}
+
+#main {
+  width: 70%;
+}
+
+h1 {
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+.nav-link {
+  color: black;
+  font-size: 0.9rem;
+  align-items: center;
+  justify-content: center;
+  display: inline-table;
+}
+
+#email {
+  max-width: 300px;
+  height: 25px;
+  font-size: 0.9rem;
+}
+
+#submit {
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+  text-indent: -10;
+}
+
+.icon {
+  align-items: center;
+  justify-content: center;
+
+  color: darkorange;
+}
+
+footer {
+  background-color: #dddddd;
+}
+
+.items {
+  border: 1px solid black;
+}
+
+.item-title {
+  background-color: #dddddd;
+  font-size: 0.9rem;
+}
+
+.item-price {
+  font-size: 1.2rem;
+}
+
+.item-details {
+  font-size: 0.9rem;
+}
+
+.Copyright {
+  font-size: 0.7rem;
+}
+
+#Features p {
+  font-size: 0.9rem;
+}
+
+#page-wrapper {
+  position: relative;
+}
